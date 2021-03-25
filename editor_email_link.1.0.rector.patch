@@ -1,0 +1,11 @@
+diff --git a/editor_email_link.info.yml b/editor_email_link.info.yml
+index df97e1d..dbf74f5 100644
+--- a/editor_email_link.info.yml
++++ b/editor_email_link.info.yml
+@@ -8,5 +8,6 @@ dependencies:
+ # Information added by Drupal.org packaging script on 2018-07-13
+ version: '8.x-1.0'
+ core: '8.x'
++core_version_requirement: ^8 || ^9
+ project: 'editor_email_link'
+ datestamp: 1531494829
